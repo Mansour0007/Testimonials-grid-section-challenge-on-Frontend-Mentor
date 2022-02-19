@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mansour0007/Testimonials-grid-section-challenge-on-Frontend-Mentor)
-- Live Site URL: [Add live site URL here](https://vibrant-swirles-b3b790.netlify.app/)
+- Solution URL: [Add solution URL here] https://github.com/Mansour0007/Testimonials-grid-section-challenge-on-Frontend-Mentor)
+- Live Site URL: [Add live site URL here] https://vibrant-swirles-b3b790.netlify.app/)
 
 ## My process
 
