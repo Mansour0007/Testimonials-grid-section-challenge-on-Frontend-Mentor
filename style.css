@@ -61,7 +61,7 @@ main {
   gap: 1rem;
   margin-bottom: 1.5rem;
 }
-.p-name {
+.heading-name {
   font-size: small;
   color: var(--Light-gray);
 }
